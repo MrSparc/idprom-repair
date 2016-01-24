@@ -84,7 +84,7 @@ I will use my Blade 100 as an example, the original Host ID: 83188869, Ethernet 
    0 fff41fd8:   Always 01 - Format/version number.
    1 fff41fd9:   1st hostid[0] byte / machine type [ 83 in Sun Blade, 80 in Sun Ultra,etc.]
  2-7 fff41fda~f: Ethernet (MAC) address 
- 8-b fff41fe0~3: The date of manufacture, ofter all zeroes, is not a real date
+ 8-b fff41fe0~3: The date of manufacture, often all zeroes, is not a real date
    c fff41fe4:   2nd hostid[1] byte
    d fff41fe5    3rd hostid[2] byte
    e fff41fe6:   4th hostid[3] byte 
