@@ -72,7 +72,7 @@ I will use my Blade 100 as an example, the original Host ID: 83188869, Ethernet 
  
  8. Offset
  
- `ok 1fd0 +`
+ `ok 1fd8 +`
  
  9. Display 30 bytes of memory starting at current addr
  
